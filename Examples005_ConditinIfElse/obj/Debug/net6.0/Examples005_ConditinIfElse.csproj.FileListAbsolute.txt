@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\bin\Debug\net6.0\Examples005_ConditinIfElse.exe
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\bin\Debug\net6.0\Examples005_ConditinIfElse.deps.json
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\bin\Debug\net6.0\Examples005_ConditinIfElse.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\bin\Debug\net6.0\Examples005_ConditinIfElse.dll
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\bin\Debug\net6.0\Examples005_ConditinIfElse.pdb
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.dll
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\refint\Examples005_ConditinIfElse.dll
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.pdb
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\Examples005_ConditinIfElse.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Examples005_ConditinIfElse\obj\Debug\net6.0\ref\Examples005_ConditinIfElse.dll
